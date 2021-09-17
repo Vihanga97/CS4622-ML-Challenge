@@ -58,7 +58,6 @@ Null values included in all features were filled with the median value of the fe
 
 The following columns were target encoded.
 
--
 - 'lga'
 - 'scheme_name'
 - 'subvillage'
